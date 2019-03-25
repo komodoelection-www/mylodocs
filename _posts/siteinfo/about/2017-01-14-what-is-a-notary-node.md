@@ -1,7 +1,7 @@
 ---
 date: 2017-01-14 14:45:05
-title: What is a Notary Node?
-description: What is a Notary Node?
+title: About Notary Nodes
+description: About Notary Nodes
 categories:
   - about
 type: Document
